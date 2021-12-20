@@ -1,0 +1,4 @@
+artifact_location: file:///home/superorange5/NCHC/mlflow_code/Diabetic_retinopathy_detection/mlruns/0
+experiment_id: '0'
+lifecycle_stage: active
+name: Default

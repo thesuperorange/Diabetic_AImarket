@@ -1,0 +1,15 @@
+artifact_uri: file:///home/superorange5/NCHC/mlflow_code/Diabetic_retinopathy_detection/mlruns/1/6125a8c4e37f413ea6c8f659355cd030/artifacts
+end_time: 1639752722198
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6125a8c4e37f413ea6c8f659355cd030
+run_uuid: 6125a8c4e37f413ea6c8f659355cd030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1639752690010
+status: 3
+tags: []
+user_id: superorange5
